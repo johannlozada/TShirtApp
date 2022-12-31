@@ -1,0 +1,168 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="20" scrolly="20" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="53.02186584472656" scrolly="44.42842864990229" scale="0.7120883389758572">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="9{C?Gcj_s?_,`Q$.h[S8" inline="false" x="110" y="10">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="U,{8^`H(6(gu5Ot26j#Z">
+          <field name="FIELDNAME">oColor01</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="~3e[DUd8+vmnTEt#.H;E">
+          <value name="VALUE2">
+            <shadow type="materialList" id="rA@-N`F/9hV`+k]GmlC)">
+              <field name="FIELDNAME">mColor1</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="Rl^jl,h{$DTc%uNy@!tq">
+              <field name="FIELDNAME">TShirt</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="yBe]i!vT:nh#Nav`E|ZH" inline="false" x="110" y="130">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="PWHLlm,`PoXJuo2O{c7[">
+          <field name="FIELDNAME">oColor02</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="#CQ}Xw#3D|;uWj_o[Pfw">
+          <value name="VALUE2">
+            <shadow type="materialList" id="Hc8G!^sgHq,Dghk4ghDU">
+              <field name="FIELDNAME">mColor2</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="bq#s~[aJ6/gvPf]8`VN}">
+              <field name="FIELDNAME">TShirt</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="zpPi1XQ3IF(;IScKW}i0" inline="false" x="110" y="250">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="Z=f26`+%$n%CQ;^{-yLk">
+          <field name="FIELDNAME">oColor03</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="Az{t@jXQK3wC=OSvf(]|">
+          <value name="VALUE2">
+            <shadow type="materialList" id="ES]IDYO+WhdAha=gNn)k">
+              <field name="FIELDNAME">mColor3</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="|-a),)-eA}`F(gbmW]b^">
+              <field name="FIELDNAME">TShirt</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="96ywv(i7k3TD6E@VvTAe" inline="false" x="310" y="390">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id=";s+]rI#a`%fO{YPs`.9B">
+          <field name="FIELDNAME">oEstampa01</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="=`%,Ea7O5}[m`2$eTs$9">
+          <value name="VALUE2">
+            <shadow type="materialList" id="B=(d=x@umVXhOn/!@9~Y">
+              <field name="FIELDNAME">mEstampa01</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="]NPxnyQ-.0k#w0.K8jo?">
+              <field name="FIELDNAME">oEstampa00</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="j*w:D7;$$B^pmlaccjTD" inline="false" x="310" y="510">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="F8Z%kVqk*D5Nu?N]nm9;">
+          <field name="FIELDNAME">oEstampa02</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="2(Bc4j([68vNG}g#ITIn">
+          <value name="VALUE2">
+            <shadow type="materialList" id="y3_KP{TRyMsWa_0,XK0k">
+              <field name="FIELDNAME">mEstampa02</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="iM[oH7zJGp:SFa_D`pRx">
+              <field name="FIELDNAME">oEstampa00</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="2om@qM_.CInP4CzBqHVD" inline="false" x="310" y="630">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id=")0.2.usEWRC6]:L-*#y{">
+          <field name="FIELDNAME">oEstampa03</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="qB|tI*T{tt?JXs3#]|?E">
+          <value name="VALUE2">
+            <shadow type="materialList" id="B5IGjDaCk7}OnYbvQt9i">
+              <field name="FIELDNAME">mEstampa03</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="BV`kE4hOQ(G^uk.UF;_:">
+              <field name="FIELDNAME">oEstampa00</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="903.5999999999999" viewport-y="28" viewport-w="614.4" viewport-h="389" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
